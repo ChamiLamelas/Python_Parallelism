@@ -22,7 +22,7 @@ This repository demonstrates the difference between Python threads and processes
 1. Open a shell and run `python3 monitor.py NSECS` `NSECS` being the amount of time it will monitor CPU and RAM usage, querying these metrics every 1 second. 
 2. Open a shell and run `python3 thread_work.py NTHREADS`. 
 
-Repeat with `process_work.py NTHREADS` in step 2. 
+Repeat with `process_work.py NPROCESSES` in step 2. 
 
 ## Results 
 
